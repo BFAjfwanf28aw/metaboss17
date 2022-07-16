@@ -1,0 +1,60 @@
+{
+  "name": "The Reflection of Love #1283",
+  "symbol": "TML",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://bafybeibkkkbxreqg46txyazvizs32a2gdezqrhzrm4x7mgvflgqq2lilya.ipfs.nftstorage.link/1283.mp4",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Spotlights Blue"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue Gold"
+    },
+    {
+      "trait_type": "Crystal",
+      "value": "Blue "
+    },
+    {
+      "trait_type": "Energy",
+      "value": "No Energy"
+    },
+    {
+      "trait_type": "Main Lamps",
+      "value": "Warm Lamps 4"
+    },
+    {
+      "trait_type": "Mirror",
+      "value": "Radial Armature"
+    },
+    {
+      "trait_type": "Mood Lights",
+      "value": "Cold Mood"
+    },
+    {
+      "trait_type": "Orrery",
+      "value": "Lower Orrery"
+    },
+    {
+      "trait_type": "Statue",
+      "value": "Moss Covered "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
